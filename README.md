@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fab-in&label=Profile%20views&color=0e75b6&style=flat" alt="fab-in" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS & SpringBoot**
 
 - 📫 How to reach me **fabinchandi@gmail.com**
 
